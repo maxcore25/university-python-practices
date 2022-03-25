@@ -1,5 +1,4 @@
-# university-python-practices
-University Python Practices 
+# University Python Practices 
 
-### Repo With Tasks
+### University Repo With Tasks
 https://github.com/true-grue/kispython
