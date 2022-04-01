@@ -146,7 +146,7 @@ def ex11():
     print('RLE сжатие с пользованием преобразования Барроуза-Уилера', rle_encode(result1))
 
 
-if __name__ == '__main__':
+def main():
     print('-----Задание 1-----')
     ex1()
     print()
@@ -160,3 +160,7 @@ if __name__ == '__main__':
 
     print('-----Задание 11-----')
     ex11()
+
+
+if __name__ == '__main__':
+    main()
