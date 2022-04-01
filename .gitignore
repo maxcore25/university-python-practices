@@ -157,4 +157,4 @@ venv
 .idea
 __pycache__
 *.jpg
-*.png
+#*.png
